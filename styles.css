@@ -1,0 +1,102 @@
+header { text-align: center;
+    background: #1F456E;
+    height: 130px;
+   
+    margin: -22px;
+    padding-top: 40px;
+    color: white;
+    
+}
+
+
+
+
+h2 { color: #0492C2; }
+
+
+p {
+    font-size: large;
+    line-height: 40px;
+
+
+}
+
+ul { color: #0492C2;
+    font-size: 25px;
+    list-style-type: none;
+    border: 1px 
+    
+}
+
+li {
+    display: inline-block;
+    margin-right: 10px; 
+    padding-top: 15px;
+    border: 1px solid rgb(231, 210, 210);
+    width: 70px;
+    height: 15px;
+    padding: 20px;
+    margin-top: 15px;
+    box-shadow: 2px 2px 4px rgb(107, 102, 102);
+    border-collapse:collapse;
+    border-radius: 5px;
+    
+    
+  }
+
+li:hover {
+
+    animation-name: bounce 1s;
+    background-color: #1F456E;
+    transition-duration: 2s;
+    transition: 1s;
+    transition-property: 2s;
+    transform: scale(1.2);
+
+}
+
+
+
+
+footer {
+  
+
+   
+    padding-top: 100px;
+    border: 1px solid black;
+    margin: 50px;
+    padding-top: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align:  center;
+    height: 60px;
+
+}
+
+div {
+
+transition-property: width;
+transition-delay: 2s;
+
+
+
+
+}
+
+div:hover {
+
+    
+    animation-name: bounce 1s;
+    background-color: #1F456E;
+    transition-duration: 2s;
+    transition: 1s;
+
+    
+
+
+}
+
+
+
+
+
